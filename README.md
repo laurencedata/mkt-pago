@@ -1,7 +1,6 @@
 # Análise de Correlação: MQLs, SQLs e Receita  
 
-🔗 **Link**:  
-Notebook: [Análise de Correlação de MQLs e Receita](https://github.com/laurencedata/mkt-pago/blob/main/mkt-pago.ipynb)  
+🔗 **Link**: [Análise de Correlação de MQLs e Receita](https://github.com/laurencedata/mkt-pago/blob/main/mkt-pago.ipynb)  
 
 📌 **Introdução**: 
 
