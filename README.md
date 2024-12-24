@@ -1,7 +1,6 @@
 # Análise de Correlação: MQLs, SQLs e Receita  
 
-🔗 **Links**:  
-
+🔗 **Link**:  
 Notebook: [Análise de Correlação de MQLs e Receita](https://github.com/laurencedata/mkt-pago/blob/main/mkt-pago.ipynb)  
 
 📌 **Introdução**: 
@@ -29,12 +28,11 @@ Os dados utilizados neste projeto foram extraídos de sistemas internos de mídi
 ⚙️ **Ferramentas Utilizadas**:
 
 - **Python**: Para o processamento e análise dos dados.  
-  - **Bibliotecas**: Pandas, NumPy, Matplotlib e Seaborn.  
+  - **Bibliotecas**: Pandas, Matplotlib, Seaborn e SciPy.  
 
 📊 **Visualizações**:  
 
 - Gráficos de dispersão para MQLs vs. Receita e SQLs vs. Receita.  
-- Heatmaps para ilustrar a matriz de correlação.  
 - Histogramas e boxplots para análise de distribuição dos dados.  
 
 💡 **Insights**:  
@@ -45,4 +43,4 @@ Os dados utilizados neste projeto foram extraídos de sistemas internos de mídi
 
 📝 **Storytelling**:  
 
-A análise revelou a importância de otimizar a geração de MQLs para maximizar a conversão em SQLs e, consequentemente, impulsionar a Receita. No entanto, a qualidade e o alinhamento entre os departamentos de Marketing e Vendas desempenham um papel crucial nesse processo. Com os resultados obtidos, empresas podem ajustar suas estratégias de mídia paga para atingir maior eficiência e retorno sobre investimento.  
+A análise revelou a importância de otimizar a geração de MQLs para maximizar a conversão em SQLs e, consequentemente, impulsionar a Receita. 
