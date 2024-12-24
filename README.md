@@ -5,7 +5,8 @@ Notebook: [Análise de Correlação de MQLs e Receita](https://github.com/lauren
 
 📌 **Introdução**: 
 
-Este projeto tem como objetivo explorar e identificar a existência de correlações entre três métricas importantes no contexto de mídia paga: MQLs (Marketing Qualified Leads), SQLs (Sales Qualified Leads) e Receita. O foco principal é fornecer insights baseados em dados para compreender a relação entre a geração de leads qualificados e os resultados financeiros da empresa.  
+Este projeto tem como objetivo explorar e identificar a existência de correlações entre três métricas importantes no contexto de mídia paga: MQLs (Marketing Qualified Leads), SQLs (Sales Qualified Leads) e Receita. O foco principal é fornecer insights baseados em dados para compreender a relação entre a geração de leads qualificados e os resultados financeiros da empresa. A análise abrange o 4º trimestre de 2024, com dados coletados no período de 01/10/2024 a 10/12/2024.
+
 
 🎯 **Objetivos**:  
 
