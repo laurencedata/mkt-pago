@@ -12,25 +12,24 @@ Este projeto tem como objetivo explorar e identificar a existência de correlaç
 
 - Avaliar a força e a direção da correlação entre MQLs e SQLs.  
 - Determinar como a quantidade de MQLs impacta diretamente a Receita gerada.  
-- Automatizar o processo de análise utilizando Python e SQL.  
+- Automatizar o processo de análise utilizando Python.  
 
 🌐 **Fontes de Dados**:  
 
-Os dados utilizados neste projeto foram extraídos de sistemas internos de mídia paga e CRM. Todos os detalhes de coleta e tratamento podem ser encontrados no notebook principal.  
+Os dados utilizados neste projeto foram extraídos de sistemas internos de mídia paga e CRM – HubSpot. Todos os detalhes de coleta e tratamento podem ser encontrados no notebook principal.  
 
 🔎 **Etapas da Análise**: 
 
 1. **Extração dos Dados**: Os dados foram coletados diretamente de ferramentas de mídia paga e CRM, exportados no formato CSV.  
 2. **Limpeza e Tratamento**: Tratamento de dados faltantes, remoção de duplicatas e ajustes de tipos de dados para assegurar a qualidade da análise.  
 3. **Exploração e Visualização**: Análise exploratória para entender padrões nos dados.  
-4. **Cálculo de Correlação**: Utilização de métricas estatísticas para calcular correlações (como Pearson e Spearman).  
+4. **Cálculo de Correlação**: Utilização de métricas estatísticas para calcular correlações (Pearson).  
 5. **Resultados e Conclusões**: Interpretação dos valores obtidos para identificar a força e relevância das correlações.  
 
 ⚙️ **Ferramentas Utilizadas**:
 
 - **Python**: Para o processamento e análise dos dados.  
   - **Bibliotecas**: Pandas, NumPy, Matplotlib e Seaborn.  
-- **SQL**: Para manipulação e extração dos dados de bancos relacionais.  
 
 📊 **Visualizações**:  
 
